@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Realm_DataBinding_Retrofit</string>
+    <string name="refresh">Refresh</string>
+</resources>
